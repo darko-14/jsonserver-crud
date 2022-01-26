@@ -1,0 +1,19 @@
+{
+    "user": [
+        {
+            "name": "User 1",
+            "phone": "071 222 333",
+            "email": "user@gmail.com"
+        },
+        {
+            "name": "Biohack",
+            "phone": "071 555 637",
+            "email": "bio@gmail.com"
+        },
+        {
+            "name": "Trucker",
+            "phone": "071 111 129",
+            "email": "truck@gmail.com"
+        }
+    ]
+}
